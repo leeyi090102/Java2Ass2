@@ -1,0 +1,17 @@
+1. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Kebidanan, Maximum = 1203, Minimum = 962, Total People Intake = 6598
+2. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Penjagaan Rapi, Maximum = 147, Minimum = 113, Total People Intake = 771
+3. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Perawatan Perioperatif, Maximum = 160, Minimum = 104, Total People Intake = 802
+4. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Kesihatan Kardiovascular, Maximum = 136, Minimum = 107, Total People Intake = 719
+5. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Perawatan Onkologi, Maximum = 55, Minimum = 0, Total People Intake = 260
+6. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Perawatan Gerontologi, Maximum = 57, Minimum = 11, Total People Intake = 158
+7. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Sitologi, Maximum = 24, Minimum = 0, Total People Intake = 58
+8. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Transfusi Darah, Maximum = 38, Minimum = 0, Total People Intake = 38
+9. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Histopatologi, Maximum = 14, Minimum = 0, Total People Intake = 14
+10. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Pengimejan Perubatan (Payudara), Maximum = 16, Minimum = 0, Total People Intake = 50
+11. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Haematologi, Maximum = 27, Minimum = 0, Total People Intake = 70
+12. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Penjagaan Paliatif, Maximum = 20, Minimum = 17, Total People Intake = 108
+13. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Perawatan Kesihatan Mental, Maximum = 98, Minimum = 61, Total People Intake = 482
+14. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Penjagaan Kecemasan, Maximum = 535, Minimum = 235, Total People Intake = 2422
+15. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Pengurusan Penjagaan Kesihatan, Maximum = 39, Minimum = 0, Total People Intake = 119
+16. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Penjagaan Respiratori, Maximum = 27, Minimum = 0, Total People Intake = 59
+17. Program Category=  Diploma Lanjutan, Kursus Name = Diploma Lanjutan Rehabilitasi Neuro, Maximum = 25, Minimum = 0, Total People Intake = 30

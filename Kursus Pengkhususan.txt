@@ -1,0 +1,45 @@
+18. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Renal/ Nefrologi, Maximum = 381, Minimum = 331, Total People Intake = 2157
+19. Program Category= Kursus Pengkhususan, Kursus Name = Kejururawatan Kesihatan Awam, Maximum = 326, Minimum = 206, Total People Intake = 1634
+20. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Pediatrik, Maximum = 283, Minimum = 182, Total People Intake = 1440
+21. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Ortopedik, Maximum = 249, Minimum = 200, Total People Intake = 1393
+22. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Neonat, Maximum = 237, Minimum = 140, Total People Intake = 1115
+23. Program Category= Kursus Pengkhususan, Kursus Name = Pengurusan Diabetis, Maximum = 233, Minimum = 142, Total People Intake = 1034
+24. Program Category= Kursus Pengkhususan, Kursus Name = Kawalan Infeksi, Maximum = 176, Minimum = 143, Total People Intake = 987
+25. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Oftalmik, Maximum = 80, Minimum = 47, Total People Intake = 370
+26. Program Category= Kursus Pengkhususan, Kursus Name = Penjagaan Kesihatan Primer, Maximum = 109, Minimum = 52, Total People Intake = 427
+27. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Perianestesia, Maximum = 154, Minimum = 104, Total People Intake = 773
+28. Program Category= Kursus Pengkhususan, Kursus Name = Pengurusan Makmal, Maximum = 0, Minimum = 0, Total People Intake = 0
+29. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Neurosains, Maximum = 63, Minimum = 32, Total People Intake = 284
+30. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Otorinolaringologi, Maximum = 54, Minimum = 30, Total People Intake = 262
+31. Program Category= Kursus Pengkhususan, Kursus Name = Perubatan Sukan, Maximum = 50, Minimum = 0, Total People Intake = 147
+32. Program Category= Kursus Pengkhususan, Kursus Name = Gastrointestinal Endoscopy, Maximum = 99, Minimum = 51, Total People Intake = 446
+33. Program Category= Kursus Pengkhususan, Kursus Name = Penyiasatan & Pendakwaan Undang-Undang, Maximum = 19, Minimum = 10, Total People Intake = 80
+34. Program Category= Kursus Pengkhususan, Kursus Name = Perawatan Rehabilitasi, Maximum = 52, Minimum = 30, Total People Intake = 265
+35. Program Category= Kursus Pengkhususan, Kursus Name = Rawatan Ortodontik, Maximum = 26, Minimum = 0, Total People Intake = 77
+36. Program Category= Kursus Pengkhususan, Kursus Name = Kesihatan Persekitaran, Maximum = 0, Minimum = 0, Total People Intake = 0
+37. Program Category= Kursus Pengkhususan, Kursus Name = Anaesthesia, Maximum = 18, Minimum = 0, Total People Intake = 57
+38. Program Category= Kursus Pengkhususan, Kursus Name = Rawatan Peridontik, Maximum = 22, Minimum = 0, Total People Intake = 22
+39. Program Category= Kursus Pengkhususan, Kursus Name = Kaunseling HIV/AIDS, Maximum = 98, Minimum = 14, Total People Intake = 322
+40. Program Category= Kursus Pengkhususan, Kursus Name = Pembedahan Mulut (Maksilofasial), Maximum = 0, Minimum = 0, Total People Intake = 0
+41. Program Category= Kursus Pengkhususan, Kursus Name = Kesihatan & Keselamatan Pekerja, Maximum = 0, Minimum = 0, Total People Intake = 0
+42. Program Category= Kursus Pengkhususan, Kursus Name = Mikrobiologi Perubatan, Maximum = 20, Minimum = 0, Total People Intake = 20
+43. Program Category= Kursus Pengkhususan, Kursus Name = Penjagaan Pergigian Pediatrik, Maximum = 25, Minimum = 0, Total People Intake = 25
+44. Program Category= Kursus Pengkhususan, Kursus Name = Hemeostasis, Maximum = 0, Minimum = 0, Total People Intake = 0
+45. Program Category= Kursus Pengkhususan, Kursus Name = Sediaan Farmaseutikal Steril, Maximum = 19, Minimum = 0, Total People Intake = 81
+46. Program Category= Kursus Pengkhususan, Kursus Name = Patologi Kimia, Maximum = 0, Minimum = 0, Total People Intake = 0
+47. Program Category= Kursus Pengkhususan, Kursus Name = Neurofisiologi Klinikal, Maximum = 10, Minimum = 0, Total People Intake = 10
+48. Program Category= Kursus Pengkhususan, Kursus Name = Tomografi Berkomputer, Maximum = 48, Minimum = 0, Total People Intake = 79
+49. Program Category= Kursus Pengkhususan, Kursus Name = Forensik, Maximum = 18, Minimum = 0, Total People Intake = 72
+50. Program Category= Kursus Pengkhususan, Kursus Name = Parasitologi, Maximum = 0, Minimum = 0, Total People Intake = 0
+51. Program Category= Kursus Pengkhususan, Kursus Name = Muskulo - Skeletal, Maximum = 0, Minimum = 0, Total People Intake = 0
+52. Program Category= Kursus Pengkhususan, Kursus Name = Keselamatan & Kebersihan Makanan, Maximum = 0, Minimum = 0, Total People Intake = 0
+53. Program Category= Kursus Pengkhususan, Kursus Name = Prostesis Maksilofasial, Maximum = 16, Minimum = 0, Total People Intake = 16
+54. Program Category= Kursus Pengkhususan, Kursus Name = Perancangan Terapi Pancaran, Maximum = 0, Minimum = 0, Total People Intake = 0
+55. Program Category= Kursus Pengkhususan, Kursus Name = Bioteknologi, Maximum = 0, Minimum = 0, Total People Intake = 0
+56. Program Category= Kursus Pengkhususan, Kursus Name = Cytogenetics, Maximum = 0, Minimum = 0, Total People Intake = 0
+57. Program Category= Kursus Pengkhususan, Kursus Name = Epidemiologi dan Kawalan Penyakit, Maximum = 18, Minimum = 0, Total People Intake = 18
+58. Program Category= Kursus Pengkhususan, Kursus Name = Kardiopulmonari Fisioterapi, Maximum = 0, Minimum = 0, Total People Intake = 0
+59. Program Category= Kursus Pengkhususan, Kursus Name = Neurologi Fisioterapi, Maximum = 0, Minimum = 0, Total People Intake = 0
+60. Program Category= Kursus Pengkhususan, Kursus Name = Penjagaan Dermatologi, Maximum = 36, Minimum = 0, Total People Intake = 59
+61. Program Category= Kursus Pengkhususan, Kursus Name = Penjagaan Luka, Maximum = 30, Minimum = 0, Total People Intake = 30
+62. Program Category= Kursus Pengkhususan, Kursus Name = Penjagaan Reumatologi, Maximum = 14, Minimum = 0, Total People Intake = 14
